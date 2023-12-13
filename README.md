@@ -1,4 +1,4 @@
-# Sales Report Analysis - Power-BI
+# Sales Analysis Report - Power-BI
 
 ## 📌Situation
 The higher management authority of the company wants to concentrate on the growth of the company by improving products quality and customers engagement.
