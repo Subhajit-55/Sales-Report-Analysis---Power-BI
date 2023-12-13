@@ -3,17 +3,17 @@
 ## 📌Situation
 The higher management authority of the company wants to concentrate on the growth of the company by improving products quality and customers engagement.
 ## 📌Task
-Acted as a Data Analyst to solve business problems by transforming company’s raw data into visualization report which convey the business stories.
-Queries:
-What is the monthly profit, revenue & orders based on each categories & sub-categories.
-What is the profit trends, revenue trends, order trends over time.
-Which sub-categories are holding top profit and orders by each year.
-Most number of orders came from which states.
-From which states max orders are came from.
-Most of the customers are living in which state.
-What is the total customer, revenue per customer & their trends over time.
-Who are the top consumers having maximum orders.
-What is the order ratio between each segments.
+<p>Acted as a Data Analyst to solve business problems by transforming company’s raw data into visualization report which convey the business stories.
+<br>Queries:
+<br>What is the monthly profit, revenue & orders based on each categories & sub-categories.
+<br>What is the profit trends, revenue trends, order trends over time.
+<br>Which sub-categories are holding top profit and orders by each year.
+<br>Most number of orders came from which states.
+<br>From which states max orders are came from.
+<br>Most of the customers are living in which state.
+<br>What is the total customer, revenue per customer & their trends over time.
+<br>Who are the top consumers having maximum orders.
+<br>What is the order ratio between each segments.</p>
 ## 📌Actions
 Data cleaning and transformation in Power Query Editor.
 Built Data Model
