@@ -7,13 +7,13 @@ The higher management authority of the company wants to concentrate on the growt
 <br>Queries:</p>
 > What is the monthly profit, revenue & orders based on each categories & sub-categories.
 > What is the profit trends, revenue trends, order trends over time.
-* Which sub-categories are holding top profit and orders by each year.
-* Most number of orders came from which states.
-* From which states max orders are came from.
-* Most of the customers are living in which state.
-* What is the total customer, revenue per customer & their trends over time.
-* Who are the top consumers having maximum orders.
-* What is the order ratio between each segments.
+> Which sub-categories are holding top profit and orders by each year.
+> Most number of orders came from which states.
+> From which states max orders are came from.
+> Most of the customers are living in which state.
+> What is the total customer, revenue per customer & their trends over time.
+> Who are the top consumers having maximum orders.
+> What is the order ratio between each segments.
 
 ## 📌Actions
 <p>Data cleaning and transformation in Power Query Editor.
