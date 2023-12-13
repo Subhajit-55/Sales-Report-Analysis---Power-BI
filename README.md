@@ -3,8 +3,8 @@
 ## 📌Situation
 The higher management authority of the company wants to concentrate on the growth of the company by improving products quality and customers engagement.
 ## 📌Task
-<p>Acted as a Data Analyst to solve business problems by transforming company’s raw data into visualization report which convey the business stories.
-<br>Queries:</p>
+Acted as a Data Analyst to solve business problems by transforming company’s raw data into visualization report which convey the business stories.
+Queries:
 > What is the monthly profit, revenue & orders based on each categories & sub-categories.
 > What is the profit trends, revenue trends, order trends over time.
 > Which sub-categories are holding top profit and orders by each year.
