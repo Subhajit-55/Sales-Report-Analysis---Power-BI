@@ -35,3 +35,6 @@ The higher management authority of the company wants to concentrate on the growt
 <br>📊Total customer of the company is 793. Average revenue per customer is $3k.</p>
 
 ## 📌Skills: Microsoft PowerPoint · Microsoft Power BI · Microsoft Excel
+- x
+* y
++ z
