@@ -5,7 +5,7 @@ The higher management authority of the company wants to concentrate on the growt
 ## 📌Task
 <p>Acted as a Data Analyst to solve business problems by transforming company’s raw data into visualization report which convey the business stories.
 <br>Queries:
-+ <br>What is the monthly profit, revenue & orders based on each categories & sub-categories.
+<br>- What is the monthly profit, revenue & orders based on each categories & sub-categories.
 + <br>What is the profit trends, revenue trends, order trends over time.
 + <br>Which sub-categories are holding top profit and orders by each year.
 + <br>Most number of orders came from which states.
