@@ -35,5 +35,5 @@ The higher management authority of the company wants to concentrate on the growt
 <br>📊Most of the customers are living in California (591), New York (405), Texas (365).
 <br>📊Total customer of the company is 793. Average revenue per customer is $3k.</p>
 
-## 📌Skills: Microsoft PowerPoint · Microsoft Power BI · Microsoft Excel
+## 📌Tools: Microsoft PowerPoint · Microsoft Power BI · Microsoft Excel
 
